@@ -31,6 +31,7 @@ setup(
     author="King Yiu Suen",
     author_email="kingyiusuen@gmail.com",
     url="https://github.com/kingyiusuen/image-to-latex/",
+    py_modules=[],
     keywords=[
         "machine-learning",
         "deep-learning",
